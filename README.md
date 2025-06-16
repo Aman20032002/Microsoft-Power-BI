@@ -1,2 +1,2 @@
-# Microsoft-Power-BI
-This is my Power BI project for Data Analysis
+# Power BI Trainings
+This is my Power BI trainings for Data Analysis
